@@ -1,0 +1,9 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "title": "ABFW-PROXY API",
+        "contact": {},
+        "version": "0.0.1"
+    },
+    "paths": {}
+}
